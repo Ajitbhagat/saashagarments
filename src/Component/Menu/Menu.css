@@ -1,0 +1,35 @@
+#menu{
+    margin: 0 auto;
+    width: 55%;
+    height: 3rem;
+    /* outline: auto; */
+    align-items: center;
+}
+
+#menu ul  {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+   
+}
+/* li{
+    align-items: center;
+    text-decoration: none;
+    outline: auto;
+    list-style: none;
+    color: wheat;
+    text-align: end;
+}
+a{
+    outline: auto;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+} */
+.link_menu{
+    
+    text-decoration: none;
+    color: white;
+   
+    
+}

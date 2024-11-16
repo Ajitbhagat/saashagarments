@@ -1,0 +1,21 @@
+#main{
+    width: 100%;
+    background-color: #a52a2a ;
+    /* outline: auto; */
+    text-align: center;
+    align-items: center;
+    color: wheat;
+}
+
+#main article
+{
+    width: 90%;
+    height: 75px;
+    margin: 0 auto;
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* outline: auto; */
+    
+}
